@@ -1,0 +1,70 @@
+*{
+margin: 0px;
+padding:0px;
+height: auto;
+}
+
+body{
+    background-color: rgb(166, 166, 166);
+    margin:0px;
+    height: auto;
+}
+
+/* inside the main */
+
+main{
+    background-color: rgb(166, 166, 166);
+    margin:0px;
+    height: auto;
+}
+
+/* inside the main */
+
+/* inside the header */
+
+header{
+background-color: black;
+margin: 0px;
+width:100vw;
+height:30vh;
+position: relative;
+}
+
+/* inside the header */
+
+/* inside the nav */
+
+nav{
+background-color: rgb(80, 80, 80);
+margin:0px;
+width:100vw;
+height:7vh;
+position: relative;
+}
+
+/* inside the nav */
+
+/* inside the section */
+
+section{
+background-color: rgb(166, 166, 166);
+margin: 0px;
+width: 100vw;
+height:60vh;
+position: relative;
+
+}
+
+/* inside the section */
+
+/* inside the footer */
+
+footer{
+background-color: black;
+margin:0px;
+width:100vw;
+height:10vh;
+position: fixed;
+}
+
+/* inside the footer */
