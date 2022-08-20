@@ -40,6 +40,12 @@ width: 100%;
 
 }
 
+.nav-a{
+color: white;
+text-decoration: none;
+
+}
+
 .nav-img-1{
 width: 30px;
 height: 30px;
@@ -147,8 +153,8 @@ align-items: center;
 }
 
 .hd-img-1{
-width: 250px;
-height: 250px;
+width: 200px;
+height: 200px;
 border-radius: 50%;
 border:5px solid #F9605A;
 position: relative;
@@ -255,16 +261,16 @@ font-size: 15px;
 
 .mn-sp-4{
 display: flex;
-border-radius: 10px;
-border: 2px solid #F9605A;
-height:20vh;
+border-left: 10px solid #F9605A;
+height:15vh;
 margin-top: 10px;
+padding-left: 5px;
 }
 
 .mn-sp-5{
 display: flex;
 color: white;
-height: 20vh;
+height: 15vh;
 width:calc(100%/2);
 justify-content: space-between;
 flex-direction: column;
