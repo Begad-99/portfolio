@@ -4,6 +4,10 @@ padding: 0px;
 font-family: 'Kanit', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+    
+    }
 
 body{
 background-image: radial-gradient(circle, #1f2233, #202336, #222538, #23263b, #25273e);
@@ -62,7 +66,7 @@ padding-left: 10px;
 
 }
 
-.nav-p-1{
+.nav-div-1{
 width: fit-content;
 height: fit-content;
 display: flex;
@@ -375,8 +379,6 @@ margin: 10px;
 
 }
 
-/* __________________ */
-
 .mn-div-experience{
 display: flex;
 flex-direction: column;
@@ -471,7 +473,6 @@ margin-right: 15px;
 margin-right: 25px;
 
 }
-/* __________________ */
 
 .mn-p-2{
 display: flex;
@@ -616,16 +617,9 @@ color: white;
 
 }
 
-.ft-div-2{
-display: flex;
-width: fit-content;
-height: fit-content;
-align-self: center;
-
-}
-
 .ft-sp-1{
 display: flex;
 color: white;
+margin-left: 30%;
 
 }
