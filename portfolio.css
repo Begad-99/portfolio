@@ -7,13 +7,16 @@ body{
 background-color: white;
 height: 100vh;
 width: 100vw;
+background-image: radial-gradient(circle, #1f2233, #202336, #222538, #23263b, #25273e);
 }
+
 
 .container{
 background-color: white;
 width: 100vw;
 height:100vh;
 display: flex;
+justify-content: center;
 background-image: radial-gradient(circle, #1f2233, #202336, #222538, #23263b, #25273e);
 }
 
@@ -21,10 +24,11 @@ background-image: radial-gradient(circle, #1f2233, #202336, #222538, #23263b, #2
 
 .hd-div-1{
 display: flex;
-width: 100vw;
-height:30vh ;
+width: fit-content;
+height:fit-content ;
 align-self: center;
 justify-content: center;
+border-radius: 50%;
 
 } 
 
@@ -43,4 +47,8 @@ border-radius: 50%;
     border:5px solid #F9605A;
 }
 
+a{
+border-radius: 50%;
+
+}
 
